@@ -1,0 +1,10 @@
+C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe.config
+C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe
+C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.pdb
+C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.AssemblyReference.cache
+C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.HelloWorld.resources
+C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Properties.Resources.resources
+C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.GenerateResource.cache
+C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
+C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
