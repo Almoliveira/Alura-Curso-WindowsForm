@@ -10,3 +10,5 @@ C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\Cu
 C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.frm_HelloWorld.resources
 C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_DemonstracaoKey.resources
 C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaSenha.resources
+C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Mascara.resources
+C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF.resources
