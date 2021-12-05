@@ -29,6 +29,7 @@ namespace CursoWindowsForms
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frm_ValidaCPF));
             this.msk_CPF = new System.Windows.Forms.MaskedTextBox();
             this.lbl_Resultado = new System.Windows.Forms.Label();
             this.btn_Reset = new System.Windows.Forms.Button();
@@ -81,6 +82,7 @@ namespace CursoWindowsForms
             this.Controls.Add(this.btn_Reset);
             this.Controls.Add(this.lbl_Resultado);
             this.Controls.Add(this.msk_CPF);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Frm_ValidaCPF";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Validação CPF";

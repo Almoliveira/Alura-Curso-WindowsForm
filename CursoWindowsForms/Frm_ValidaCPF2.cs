@@ -44,7 +44,6 @@ namespace CursoWindowsForms
             } 
             else
             {
-
                 if(vConteudo.Length != 11)
                 {
                     MessageBox.Show("CPF deve ter 11 digitos!", "Mensagem de Validação", MessageBoxButtons.OK, MessageBoxIcon.Warning);
