@@ -14,3 +14,6 @@ C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\Cu
 C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF.resources
 C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF2.resources
 C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal.resources
+C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsFormsBiblioteca.dll
+C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsFormsBiblioteca.pdb
+C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CopyComplete
