@@ -48,6 +48,7 @@ namespace CursoWindowsForms
             // 
             // btn_Sair
             // 
+            this.btn_Sair.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.btn_Sair.Location = new System.Drawing.Point(322, 347);
             this.btn_Sair.Name = "btn_Sair";
             this.btn_Sair.Size = new System.Drawing.Size(150, 23);
@@ -68,6 +69,8 @@ namespace CursoWindowsForms
             // 
             // txt_conteudoLabel
             // 
+            this.txt_conteudoLabel.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.txt_conteudoLabel.Location = new System.Drawing.Point(34, 91);
             this.txt_conteudoLabel.Name = "txt_conteudoLabel";
             this.txt_conteudoLabel.Size = new System.Drawing.Size(369, 20);
