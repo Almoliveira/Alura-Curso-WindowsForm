@@ -1,6 +1,5 @@
 C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.dll
 C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.pdb
-C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.AssemblyReference.cache
 C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.CoreCompileInputs.cache
 C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.dll
 C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.pdb
