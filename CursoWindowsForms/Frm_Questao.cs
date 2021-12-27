@@ -10,19 +10,26 @@ using System.Windows.Forms;
 
 namespace CursoWindowsForms
 {
-    public partial class frm_HelloWorld : Form
+    public partial class Frm_Questao : Form
     {
-        public frm_HelloWorld()
+        public Frm_Questao(string nomeImagem, string mensagem)
         {
             InitializeComponent();
+
+            Image MyImage = (Image)global::CursoWindowsForms
+                .Properties
+                .Resources
+                .ResourceManager
+                .GetObject(nomeImagem);
+            Pic_Imagem.Image = MyImage;
+            Lbl_Questao.Text = mensagem;
         }
 
-        private void btn_Sair_Click(object sender, EventArgs e)
+        private void Btn_OK_Click(object sender, EventArgs e)
         {
             try
             {
-                //Application.Exit();
-                //DialogResult = DialogResult.OK;
+                DialogResult = DialogResult.Yes;
                 this.Close();
             }
             catch (Exception er)
@@ -32,11 +39,12 @@ namespace CursoWindowsForms
             }
         }
 
-        private void btn_ModificaLabel_Click(object sender, EventArgs e)
+        private void Btn_Cancel_Click(object sender, EventArgs e)
         {
             try
             {
-                lbl_Titulo.Text = txt_conteudoLabel.Text;
+                DialogResult = DialogResult.Cancel;
+                this.Close();
             }
             catch (Exception er)
             {
