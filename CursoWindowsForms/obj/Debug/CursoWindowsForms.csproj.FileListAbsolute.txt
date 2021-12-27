@@ -28,3 +28,4 @@ C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\Cu
 C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaSenha_UC.resources
 C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Questao.resources
 C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ArquivoImagem_UC.resources
+C:\Users\Andre\Documents\Andre\Programacao\asp_net\Alura\WindowsForm\Modulo_1\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Login.resources

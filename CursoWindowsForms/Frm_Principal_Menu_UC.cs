@@ -24,6 +24,8 @@ namespace CursoWindowsForms
         public Frm_Principal_Menu_UC()
         {
             InitializeComponent();
+
+            PermissoesConexao(false);
         }
 
         private void validaCPFToolStripMenuItem_Click(object sender, EventArgs e)
@@ -143,6 +145,84 @@ namespace CursoWindowsForms
                     TB.Controls.Add(U);
                     Tbc_Aplicacoes.TabPages.Add(TB);
                 }
+            }
+            catch (Exception er)
+            {
+
+                throw er;
+            }
+        }
+
+        private void conectarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                Frm_Login f = new Frm_Login();
+                f.ShowDialog();
+
+                if(f.DialogResult == DialogResult.OK)
+                {
+                    string login = f.login;
+                    string senha = f.senha;
+
+                    if(CursoWindowsFormsBiblioteca.Cls_Uteis.validaSenhaLogin(senha))
+                    {
+                        PermissoesConexao(true);
+                        MessageBox.Show(string.Format("Bem vindo {0}!", login), "Mensagem", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    } else
+                    {
+                        MessageBox.Show("Senha Inválida!", "Mensagem", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    }
+
+                    
+                }
+            }
+            catch (Exception er)
+            {
+
+                throw er;
+            }
+        }
+
+
+        protected void PermissoesConexao(bool permissao)
+        {
+            try
+            {
+                novoToolStripMenuItem.Enabled = permissao;
+                apagarAbaToolStripMenuItem.Enabled = permissao;
+                abrirImagemToolStripMenuItem.Enabled = permissao;
+                conectarToolStripMenuItem.Enabled = !permissao;
+
+                desconectarToolStripMenuItem.Enabled = permissao;
+            }
+            catch (Exception er)
+            {
+
+                throw er;
+            }
+        }
+
+        private void desconectarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            try
+            {
+
+                Frm_Questao Db = new Frm_Questao("icons8_question_641", "Você deseja se desconectar?");
+
+                Db.ShowDialog();
+                if(Db.DialogResult == DialogResult.Yes)
+                {
+
+                    for(int i = Tbc_Aplicacoes.TabPages.Count - 1; i >= 0; i--)
+                    {
+                        Tbc_Aplicacoes.TabPages.Remove(Tbc_Aplicacoes.TabPages[i]);
+                    }
+
+
+                    PermissoesConexao(false);
+                }
+                
             }
             catch (Exception er)
             {
